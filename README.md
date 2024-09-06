@@ -3,4 +3,4 @@ This repository contains the .ptc files for the NNLDA, NNGGA, and NNGGA-UEG XC f
 ## Requirements
 1. Numpy
 2. Torch
-3. Libxc
+3. Libxc with python bindings (https://libxc.gitlab.io/installation/)
